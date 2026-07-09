@@ -1,6 +1,6 @@
 # New-style-for-chat-in-Otzariya
 
-עיצוב נקי (בסגנון וואצאפ) עבור צאטים של [פורום אוצריא](https://otzaria.org/forum).
+סקריפט Tampermonkey להחלת עיצוב נקי (בסגנון וואצאפ) על צאטים של [פורום אוצריא](https://otzaria.org/forum).
 
 נוצר בסיוע צמוד של [gemini](https//gemini.google.com/app).
 
