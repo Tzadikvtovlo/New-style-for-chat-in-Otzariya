@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         עיצוב צאט אוצריא
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  New style for chat in Otzariya
 // @author       צדיק וטוב לו וההודי של gemini
 // @match        https://otzaria.org/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-Otzariya/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/New-style-for-chat-in-Otzariya/main/Tampermonkey.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=otzaria.org
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=otzaria.org
 // @grant        none
 // ==/UserScript==
 
